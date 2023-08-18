@@ -1,0 +1,8 @@
+{
+    "routes": [
+      {
+        "src": "/random-quote",
+        "dest": "/random-quote"
+      }
+    ]
+  }
